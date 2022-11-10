@@ -2,7 +2,7 @@
 
 - 🔭 Estou buscando minha primeira oportunidade na área de TI;
 - 🌱 Estou aprendendo no momento programação mobile em React Native;
-- 😄 Pronouns: ela/dela
+- 😄 ela/dela
 
 
 <div align="center">
