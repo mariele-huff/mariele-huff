@@ -1,6 +1,6 @@
-## Olá! Eu sou a Mariele Huff
+## Olá! Eu sou a Mari
 
-- 🔭 Estou buscando minha primeira oportunidade na área de TI;
+- 🔭 Estou buscando minha primeira oportunidade profissinal na programação;
 - 🌱 Estou aprendendo no momento programação mobile em React Native;
 - 😄 ela/dela
 
