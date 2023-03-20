@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Mari
 
-- 🔭 Estou buscando minha primeira oportunidade profissinal na programação;
+- 🔭 Desenvolvedora de software treeine na Interact solutions;
 - 🌱 Estou aprendendo no momento programação mobile em React Native;
 - 😄 ela/dela
 
