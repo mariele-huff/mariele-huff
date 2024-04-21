@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Mari
 
 - 🔭 Desenvolvedora de software treeine na Interact solutions;
-- 🌱 Estou aprendendo no momento programação mobile em React Native;
-- 😄 ela/dela
 
 
 <div align="center">
