@@ -1,13 +1,6 @@
-## Olá! Eu sou a Mari
+## Olá! Eu sou a Mari, Desenvolvedora de Software
 
-- 🔭 Desenvolvedora de software treeine na Interact solutions;
-
-
-<div align="center">
-  <a href="https://github.com/mariele-huff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariele-huff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariele-huff&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 🔭 Desenvolvedora de software na Interact solutions;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,7 +19,4 @@
   <a href = "mailto:marielehuff@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marielehuff/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- 
-   ![Snake animation](https://github.com/mariele-huff/mariele-huff/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
