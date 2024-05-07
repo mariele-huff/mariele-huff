@@ -1,6 +1,8 @@
 ## Olá! Eu sou a Mari, Desenvolvedora de Software
 
-- 🔭 Desenvolvedora de software na Interact solutions;
+- Desenvolvedora de software na Interact solutions;
+- No momento estou cursando graduação em análise e desenvolvimento de sistemas com previsão de conclusão em 2025;
+- Formada no curso intensivo e emersivo CRIE TI;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
